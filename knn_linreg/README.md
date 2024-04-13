@@ -34,4 +34,4 @@
 * table - корона
 
 ## Используемые инструменты
-Python, Pandas, Numpy, Sklearn, Matplotlib
+Python, Sklearn, mlxtend, Pandas, Numpy, Matplotlib
