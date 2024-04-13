@@ -32,3 +32,6 @@
 * z - высота в миллиметрах
 * depth - глубина
 * table - корона
+
+## Используемые инструменты
+Python, Pandas, Numpy, Sklearn, Matplotlib
