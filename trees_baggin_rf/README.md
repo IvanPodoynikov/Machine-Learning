@@ -11,4 +11,4 @@
 2. Датасет `students.csv` - это немного преобразованный датасет [User Knowledge](https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling).
 
 ## Используемые инструменты
-Python, Sklearn, re, nltk, Matplotlib, Seaborn, Pandas, Numpy
+Python, Sklearn.metrics, Sklearn.ensemble, Numpy, Pandas, Seaborn, Matplotlib
